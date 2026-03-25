@@ -1,59 +1,64 @@
 # Hi there, I'm Ibrahim Hassan 👋  
 
-## I'm a Data Analyst 📊  
+## Freelance Data Analyst | Python | Excel | SQL | Tableau 📊  
 
-- 🔍 I analyze data to extract insights and support decision-making  
-- 🐍 I use Python for data analysis and automation  
-- 📊 Skilled in Excel for data cleaning, reporting, and dashboards  
-- 🗄️ I have a solid foundation in SQL for querying databases  
-- 🌱 Currently improving my skills in Data Visualization & Advanced Analytics  
-- 🎯 Goal: Become a professional Data Analyst and work on real-world projects  
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IbrahimHassan-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
-### 🧠 Skills & Tools:
+### 👨‍💻 About Me
 
-- Python (Pandas, NumPy, Matplotlib)
-- Excel (Pivot Tables, Power Query, Dashboards)
-- SQL (Basic Queries, Joins, Aggregations)
-- Data Cleaning & Data Visualization
-- Problem Solving & Analytical Thinking  
+I'm a passionate Data Analyst helping businesses and freelancers make sense of their data.  
+I specialize in turning raw data into actionable insights, clean reports, and interactive dashboards.
 
----
-
-### 🤝 Connect with me:
-
-- 💼 LinkedIn: (حط لينك بتاعك هنا)
-- 📧 Email: (ايميلك هنا)
-- 📱 WhatsApp: (اختياري)
+- 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🔹 Advanced Excel (Pivot Tables, Power Query, Dashboards)  
+- 🔹 SQL (Queries, Joins, Aggregations)  
+- 🔹 Tableau (Interactive Dashboards & Visualization)  
+- 🔹 Data Cleaning & Analytics  
 
 ---
 
-### 🛠️ Tools I Use:
+### 🛠️ Services I Offer
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Excel" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"/>
-<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
-
-<br />
-<br />
+- 📊 Data Analysis & Reporting  
+- 📈 Interactive Dashboards in Tableau or Excel  
+- 🗄️ SQL Data Extraction & Database Queries  
+- 🧹 Data Cleaning & Preprocessing  
+- 📑 Custom Excel Solutions  
 
 ---
 
-### 📊 Projects:
+### 📂 Portfolio & Projects
 
-- 📁 Sales Data Analysis Project  
-- 📁 Customer Segmentation باستخدام Python  
-- 📁 Excel Dashboard Project  
-- 📁 SQL Data Exploration  
+- **Sales Data Analysis & Reporting** – Python & Excel  
+  *Analyze sales trends and generate actionable insights*  
+- **Customer Segmentation** – Python & SQL  
+  *Segment customers for targeted marketing strategies*  
+- **Interactive Dashboards** – Tableau & Excel  
+  *Visualize KPIs and business metrics interactively*  
+- **Data Cleaning & Visualization** – Python & Tableau  
+  *Prepare datasets and create meaningful visualizations*  
+
+> 🔗 *Add your live links or GitHub repos for each project here*  
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### ⚡ Let's Work Together!
+
+If you have a data project or need actionable insights, feel free to reach out!  
+- 💼 LinkedIn: [YOUR_LINKEDIN](YOUR_LINKEDIN)  
+- 📧 Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)  
+
+I turn raw data into meaningful insights and interactive dashboards for businesses and freelancers 🚀📊
 
 ---
 
