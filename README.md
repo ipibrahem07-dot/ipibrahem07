@@ -2,7 +2,7 @@
 
 ## Freelance Data Analyst | Python | Excel | SQL | Tableau 📊  
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/ipibrahem07?label=Follow&style=for-the-badge)](https://github.com/ipibrahem07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IbrahimHassan-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
