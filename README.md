@@ -48,7 +48,7 @@ I specialize in turning raw data into actionable insights, clean reports, and in
 
 ### 📈 GitHub Stats
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipibrahem07-dot&show_icons=true&theme=radical)
 
 ---
 
